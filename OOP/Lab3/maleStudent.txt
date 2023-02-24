@@ -1,0 +1,3 @@
+1111 Ahmed male undergrad 90
+4444 Khalid male grad 32
+6666 Hamad male undergrad 33
